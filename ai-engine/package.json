@@ -1,0 +1,10 @@
+{
+  "name": "signalflow-ai-engine",
+  "version": "1.0.0",
+  "description": "SignalFlow AI signal generation engine",
+  "main": "src/engine.py",
+  "scripts": {
+    "start": "python src/engine.py",
+    "test": "pytest src/tests/"
+  }
+}
